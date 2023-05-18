@@ -1,0 +1,11 @@
+C:\Users\machi\Desktop\CSEXER\JetFinal\JetFinal\bin\Debug\JetFinal.exe.config
+C:\Users\machi\Desktop\CSEXER\JetFinal\JetFinal\bin\Debug\JetFinal.exe
+C:\Users\machi\Desktop\CSEXER\JetFinal\JetFinal\bin\Debug\JetFinal.pdb
+C:\Users\machi\Desktop\CSEXER\JetFinal\JetFinal\obj\Debug\JetFinal.csproj.AssemblyReference.cache
+C:\Users\machi\Desktop\CSEXER\JetFinal\JetFinal\obj\Debug\JetFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\machi\Desktop\CSEXER\JetFinal\JetFinal\obj\Debug\JetFinal.JetGame.resources
+C:\Users\machi\Desktop\CSEXER\JetFinal\JetFinal\obj\Debug\JetFinal.Properties.Resources.resources
+C:\Users\machi\Desktop\CSEXER\JetFinal\JetFinal\obj\Debug\JetFinal.csproj.GenerateResource.cache
+C:\Users\machi\Desktop\CSEXER\JetFinal\JetFinal\obj\Debug\JetFinal.csproj.CoreCompileInputs.cache
+C:\Users\machi\Desktop\CSEXER\JetFinal\JetFinal\obj\Debug\JetFinal.exe
+C:\Users\machi\Desktop\CSEXER\JetFinal\JetFinal\obj\Debug\JetFinal.pdb
